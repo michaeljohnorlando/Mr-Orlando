@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mr-Orlando/static/css/main.121f9f63.chunk.css",
-    "main.js": "/Mr-Orlando/static/js/main.75290cdf.chunk.js",
-    "main.js.map": "/Mr-Orlando/static/js/main.75290cdf.chunk.js.map",
+    "main.js": "/Mr-Orlando/static/js/main.41cf02a6.chunk.js",
+    "main.js.map": "/Mr-Orlando/static/js/main.41cf02a6.chunk.js.map",
     "runtime-main.js": "/Mr-Orlando/static/js/runtime-main.297892c0.js",
     "runtime-main.js.map": "/Mr-Orlando/static/js/runtime-main.297892c0.js.map",
     "static/js/2.74d22fe8.chunk.js": "/Mr-Orlando/static/js/2.74d22fe8.chunk.js",
     "static/js/2.74d22fe8.chunk.js.map": "/Mr-Orlando/static/js/2.74d22fe8.chunk.js.map",
     "index.html": "/Mr-Orlando/index.html",
-    "precache-manifest.460034dbb88d24de75601029de55ed74.js": "/Mr-Orlando/precache-manifest.460034dbb88d24de75601029de55ed74.js",
+    "precache-manifest.24944b5332834b1799e979d3b1f3b54d.js": "/Mr-Orlando/precache-manifest.24944b5332834b1799e979d3b1f3b54d.js",
     "service-worker.js": "/Mr-Orlando/service-worker.js",
     "static/css/main.121f9f63.chunk.css.map": "/Mr-Orlando/static/css/main.121f9f63.chunk.css.map",
     "static/js/2.74d22fe8.chunk.js.LICENSE.txt": "/Mr-Orlando/static/js/2.74d22fe8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.297892c0.js",
     "static/js/2.74d22fe8.chunk.js",
     "static/css/main.121f9f63.chunk.css",
-    "static/js/main.75290cdf.chunk.js"
+    "static/js/main.41cf02a6.chunk.js"
   ]
 }
