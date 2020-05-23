@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'barcode';
+    src: local('barcode'), url(../fonts/BarcodeText.woff) format('woff');
+}
+
+/*  Body ============================*/
+body{
+    margin:0;
+}
+.fpadding{
+    position: absolute;
+    padding-top: 20vh;
+    width: 100vw;    
+
+}
+.h1, h1 {
+    font-size: 15vw;
+    margin-bottom: 60px;
+}
+.maintext{
+    text-align: center;
+    font-family:Adamina;
+}
+/*  Vanta ============================ */
+.vanta { 
+    height:100vh;
+  }
+/*  Footer ============================ */
+footer{
+    bottom: 0.5rem;
+    position: absolute;
+    width: 100vw;
+}
+.footerText{
+    text-align: center;
+    font-family: barcode;
+    font-size: 4.5vh;
+}
