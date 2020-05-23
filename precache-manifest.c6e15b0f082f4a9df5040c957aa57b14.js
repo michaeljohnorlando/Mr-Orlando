@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90979c44499c94b848e27711b03dc7d0",
+    "revision": "b662fcce8f1d89fcd734bf999b3853ca",
     "url": "/Mr-Orlando/index.html"
   },
   {
-    "revision": "13e5e7fc7197b8a4a5d3",
-    "url": "/Mr-Orlando/static/css/main.6084f354.chunk.css"
+    "revision": "cbc3e48fb4a0643c0855",
+    "url": "/Mr-Orlando/static/css/main.dccad338.chunk.css"
   },
   {
     "revision": "866ff772008f3c7e690d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mr-Orlando/static/js/2.74d22fe8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13e5e7fc7197b8a4a5d3",
+    "revision": "cbc3e48fb4a0643c0855",
     "url": "/Mr-Orlando/static/js/main.75290cdf.chunk.js"
   },
   {
