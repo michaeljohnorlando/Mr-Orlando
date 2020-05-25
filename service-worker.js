@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mr-Orlando/precache-manifest.ff11acebfa5c4007a7fc525350288ac2.js"
+  "/Mr-Orlando/precache-manifest.67ff811a1fa2d7e06620ef32075681cc.js"
 );
 
 self.addEventListener('message', (event) => {

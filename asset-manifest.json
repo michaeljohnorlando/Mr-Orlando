@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mr-Orlando/static/css/main.3c0f939a.chunk.css",
-    "main.js": "/Mr-Orlando/static/js/main.cd6ae588.chunk.js",
-    "main.js.map": "/Mr-Orlando/static/js/main.cd6ae588.chunk.js.map",
+    "main.css": "/Mr-Orlando/static/css/main.4eb3b85c.chunk.css",
+    "main.js": "/Mr-Orlando/static/js/main.f8245a2f.chunk.js",
+    "main.js.map": "/Mr-Orlando/static/js/main.f8245a2f.chunk.js.map",
     "runtime-main.js": "/Mr-Orlando/static/js/runtime-main.297892c0.js",
     "runtime-main.js.map": "/Mr-Orlando/static/js/runtime-main.297892c0.js.map",
     "static/js/2.45487c15.chunk.js": "/Mr-Orlando/static/js/2.45487c15.chunk.js",
     "static/js/2.45487c15.chunk.js.map": "/Mr-Orlando/static/js/2.45487c15.chunk.js.map",
     "index.html": "/Mr-Orlando/index.html",
-    "precache-manifest.ff11acebfa5c4007a7fc525350288ac2.js": "/Mr-Orlando/precache-manifest.ff11acebfa5c4007a7fc525350288ac2.js",
+    "precache-manifest.67ff811a1fa2d7e06620ef32075681cc.js": "/Mr-Orlando/precache-manifest.67ff811a1fa2d7e06620ef32075681cc.js",
     "service-worker.js": "/Mr-Orlando/service-worker.js",
-    "static/css/main.3c0f939a.chunk.css.map": "/Mr-Orlando/static/css/main.3c0f939a.chunk.css.map",
+    "static/css/main.4eb3b85c.chunk.css.map": "/Mr-Orlando/static/css/main.4eb3b85c.chunk.css.map",
     "static/js/2.45487c15.chunk.js.LICENSE.txt": "/Mr-Orlando/static/js/2.45487c15.chunk.js.LICENSE.txt",
     "static/media/main.css": "/Mr-Orlando/static/media/BarcodeText.4307bc88.woff",
     "static/media/me_on_rock.png": "/Mr-Orlando/static/media/me_on_rock.d9eec702.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.297892c0.js",
     "static/js/2.45487c15.chunk.js",
-    "static/css/main.3c0f939a.chunk.css",
-    "static/js/main.cd6ae588.chunk.js"
+    "static/css/main.4eb3b85c.chunk.css",
+    "static/js/main.f8245a2f.chunk.js"
   ]
 }
